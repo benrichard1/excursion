@@ -7,11 +7,10 @@ body {
 }
 h1 {
   font-size: 50px;
-  font-weight: bold;
 }
 h2 {
-  font-size: 40px;
-  font-weight: bold;
+  font-size: 42px;
+  font-weight: 300;
 }
 a {
   color: aquamarine;
@@ -19,4 +18,7 @@ a {
 p {
   color: gray;
   font-size: 21px;
+}
+.copyright {
+  text-align: right;
 }
