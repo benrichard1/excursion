@@ -1,1 +1,22 @@
-Hello World
+body {
+  font-family: "Verdana", helvetica;
+  color: white;
+  background-color: black;
+  font-size: 16px;
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+h2 {
+  font-size: 40px;
+  font-weight: bold;
+}
+a {
+  color: aquamarine;
+}
+p {
+  color: gray;
+  font-size: 21px;
+}
